@@ -81,7 +81,7 @@
 <div class='wrapper'>
 <div class='link-container visitor-welcome'>
 <a class="link-card" href=""><span>Skapa</span> nätverk
-</a><a class="link-card" href=""><span>Upptäck</span> smarta tjänster
+</a><a class="link-card" href="https://ifttt.com/recipes"><span>Upptäck</span> smarta tjänster
 </a><a class="link-card"href=""><span>Handla</span> enheter
 </a></div>
 </div>
