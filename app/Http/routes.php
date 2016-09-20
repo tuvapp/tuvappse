@@ -17,16 +17,21 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/app', function() {
-	return view('app');
-});
 
 Route::get('/how-it-works', function() {
 	return view('how-it-works');
 });
 
-Route::get('/customers', function() {
-	return view('customers');
+Route::get('/discover', function() {
+	return view('discover');
+});
+
+Route::get('/shop', function() {
+	return view('shop');
+});
+
+Route::get('/categories', function() {
+	return view('categories');
 });
 
 // Using controller to handle post
@@ -40,16 +45,16 @@ Route::post('/order', 'OrderController@send');
 
 
 // --------------------------- IN FOOTER ----//
-Route::get('/company', function() {
-	return view('company');
+Route::get('/about', function() {
+	return view('about');
 });
 
-Route::get('/team', function() {
-	return view('team');
+Route::get('/app', function() {
+	return view('app');
 });
 
-Route::get('/our-story', function() {
-	return view('our-story');
+Route::get('/terms', function() {
+	return view('terms');
 });
 
 Route::get('/media', function() {

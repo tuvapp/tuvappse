@@ -316,9 +316,6 @@
 
 </div>
 </div>
-<div class="InfiniteScrollFooter">
-<div class="InfiniteScrollFooter-signature"></div>
-</div>
 </div>
 
 <div class='SignupMessage SignupMessage--sliding animated js-signupMessage'>

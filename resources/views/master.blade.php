@@ -74,14 +74,14 @@
 <div class='welcome-visitor-message animated' data-message-cookie='seen_new_visitor_intro'>
 <div class='welcome-header-box'>
 <div class='welcome-header-layout wrapper'>
-<h1>Männniskor och prylar, Ett socialt nätverk.</h1>
+<h1>Tuva, The smart and connected communities of the future.</h1>
 <div class='close-button-base close-button-thin close-button-welcome-box js-close-welcome-message'></div>
 </div>
 </div>
 <div class='wrapper'>
 <div class='link-container visitor-welcome'>
 <a class="link-card" href=""><span>Skapa</span> nätverk
-</a><a class="link-card" href="https://ifttt.com/recipes"><span>Upptäck</span> smarta tjänster
+</a><a class="link-card" href="https://ifttt.com/recipes"><span>Använd</span> smarta tjänster
 </a><a class="link-card"href=""><span>Handla</span> enheter
 </a></div>
 </div>
@@ -116,7 +116,11 @@ Tuva.co. All rights reserved.
 <a class="deemphasized" href="/terms">Villkor</a>
 <!-- <a class="deemphasized" href="/privacy">Privacy</a> -->
 <!-- <a class="deemphasized" href="/products/directory">Directory</a> -->
-<a class="deemphasized" href="mailto:emil.karlsson@tuva.co">Skicka feedback</a>
+<a class="deemphasized" href="mailto:emil.karlsson@tuva.co">feedback</a>
+<!--<a class="deemphasized" href="">Ide forum</a> -->
+<a class="deemphasized" href="mailto:emil.karlsson@tuva.co">Support</a>
+<a class="deemphasized" href="mailto:emil.karlsson@tuva.co">Utvecklare</a>
+<a class="deemphasized" href="mailto:emil.karlsson@tuva.co">Partner</a>
 </div>
 <div class='footer-social-links'>
 <a target="_blank" class="footer-twitter-link" href="http://twitter.com/">Twitter</a>
