@@ -16860,7 +16860,7 @@ body.sticky .GlobalNav {
     height: 82px;
     width: 82px;
     border-radius: 50%;
-    background-color: #0d4c75;
+    background-color: #297ab4;
     -ms-flex-item-align: center;
     align-self: center;
     -webkit-transition: background-color 0.2s ease-in-out;
@@ -18145,7 +18145,7 @@ input.search-input {
     pointer-events: none
 }
 .welcome-visitor-message {
-    background-color: #0d4c75;
+    background-color: #297ab4;
     margin-top: 0;
     margin-bottom: 0;
     padding-bottom: 0;
@@ -18490,7 +18490,7 @@ a.button, .button, input[type=submit] {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background-color: #2fdab8;
+    background-color: #297ab4;
     border: none;
     border-radius: 0;
     box-sizing: border-box;
